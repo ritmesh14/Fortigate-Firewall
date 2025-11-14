@@ -91,10 +91,3 @@ This README covers:
 * Hostname configuration
 * Interface setup
 * Connectivity testing via ping
-
-You can extend this repository by adding:
-
-* Firewall policies
-* Static/OSPF/BGP routing examples
-* VPN configuration guides (IPsec/SSL)
-* System backup/restore procedures
